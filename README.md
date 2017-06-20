@@ -1,0 +1,2 @@
+# easyghaat-manager-
+This is a web portal developed in ASP.NET ( MVC ) Entity Framework  6 with ms sql 2012. It's a manager module out of other modules as well like Customer module, Employee Module, Admin Module and Vendor module. From this module an assigned user can manage all the orders assign pickup and delivery of the product as per location and also keep track of the work completed by the vendor.
